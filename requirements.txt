@@ -1,0 +1,10 @@
+pymongo>=3.0,<4.0
+td-client>=0.3.0,<0.4.0
+certifi
+luigi
+luigi-td
+numpy
+pygeoip
+pandas
+pandas-td
+scipy
